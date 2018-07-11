@@ -1,0 +1,51 @@
+body{
+    background: url(img/tpbg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: black;
+}
+#thank-you{
+    border: solid 1px white;
+    background-color: #2B2B29;
+    margin:auto;
+    width:500px;
+    text-align: center;
+    bottom:500px;
+    font-family: Avenir;
+    color:white;
+    padding-left: 10px;
+    font-size: 45px;
+    padding-right: 10px;
+    letter-spacing:7px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    z-index: 100;
+
+}
+.videoBox{
+    width:768px;
+    height: 100%;
+    display:block;
+    align-content: center;
+    margin: 0 auto;
+
+}
+#video{
+    width:100%;
+    position:relative;
+    vertical-align: center;
+}
+.quote{
+    max-width: 600px;
+    color:#eaeaea;
+    margin: 2em auto;
+    line-height: 20px;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+}
+#bold-quote{
+    color:#fff;
+    font-weight: bold;
+}
