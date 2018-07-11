@@ -69,14 +69,14 @@ body{
         padding: 10px;
         border-radius: 5px;
         color: #fff;
-        background-color: #444;
+        background-color: #0F9AAB;
         text-decoration: none;
         font-size: 12px;
         margin-top:50px;
     }
 
     #button:hover {
-        background-color: #fff;
+        background-color: #FC9E1C;
         color: #000;
     }
 
